@@ -23,3 +23,7 @@ Contents
    Home <self>
    usage
    api
+   recon/recon
+   active-scan
+   test
+
